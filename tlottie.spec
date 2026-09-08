@@ -1,3 +1,5 @@
+%undefine _debugsource_packages
+
 # Recreate the vendor archive after a snapshot bump:
 #   tar xf tlottie-0.1.0-758c7cb.tar.gz
 #   cd tlottie-<commit>
