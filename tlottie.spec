@@ -13,7 +13,7 @@
 
 Name:		tlottie
 Version:	0.1.0
-Release:	1
+Release:	2
 Summary:	Rust Lottie renderer with a C API
 License:	MIT
 Group:		System/Libraries
